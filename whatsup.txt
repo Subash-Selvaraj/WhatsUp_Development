@@ -10,3 +10,5 @@ Author: Subash
 6. Adding the audio call feature
 7. Adding the video call feature
 8. Adding multi-status option
+
+9.New feature added to show the status of online/lastseen in whatsapp
