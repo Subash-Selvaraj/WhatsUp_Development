@@ -12,4 +12,4 @@ Author: Subash
 8. Adding multi-status option
 
 9.New feature added to show the status of online/lastseen in whatsapp
-10. Added new feature for group which we can able to add 100 members
+
