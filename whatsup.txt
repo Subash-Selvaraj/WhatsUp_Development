@@ -6,4 +6,5 @@ Author: Subash
 2. chat screen code
 3. status code
 4. attachment code(image,attachment,video)
+5. Hiding status
 
